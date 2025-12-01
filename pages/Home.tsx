@@ -10,9 +10,9 @@ const Home: React.FC = () => {
         {/* Background Image with Overlay */}
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://picsum.photos/id/111/1920/1080" // Vintage car/garage vibe
-            alt="Garage Workshop" 
-            className="w-full h-full object-cover opacity-20"
+            src="https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=1920" 
+            alt="Baguley MOT Centre Workshop" 
+            className="w-full h-full object-cover opacity-30"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-slate-900 via-slate-900/90 to-slate-900/40"></div>
         </div>

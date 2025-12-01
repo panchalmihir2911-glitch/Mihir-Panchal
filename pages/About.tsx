@@ -18,8 +18,8 @@ const About: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div>
             <img 
-              src="https://picsum.photos/id/442/800/600" // Garage/tools related
-              alt="Mechanic working" 
+              src="https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&q=80&w=800" 
+              alt="Mechanic working on engine" 
               className="rounded-lg shadow-xl mb-6 md:mb-0"
             />
           </div>

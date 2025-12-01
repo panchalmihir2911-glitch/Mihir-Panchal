@@ -70,7 +70,7 @@ const Contact: React.FC = () => {
           <div className="space-y-8">
             <div className="bg-slate-200 rounded-xl h-64 w-full flex items-center justify-center text-slate-500 overflow-hidden relative">
                {/* Simulated Map */}
-               <img src="https://picsum.photos/id/10/800/400" className="w-full h-full object-cover opacity-50 grayscale" alt="Map Location" />
+               <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=800" className="w-full h-full object-cover opacity-50" alt="Map Location" />
                <div className="absolute inset-0 flex items-center justify-center bg-black/10">
                  <button className="bg-white text-slate-900 px-6 py-2 rounded-full shadow-lg font-semibold flex items-center gap-2 hover:scale-105 transition-transform">
                    <MapPin size={18} className="text-red-500" /> View on Google Maps

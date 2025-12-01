@@ -19,7 +19,7 @@ const Services: React.FC = () => {
           <ServiceSection 
             title="Class 4 MOT Testing"
             subtitle="Our core specialty. Fast, fair, and DVSA-approved."
-            image="https://picsum.photos/id/1071/800/400" // Car imagery
+            image="https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&q=80&w=800"
             features={[
               "Cars, Small Vans, Taxis, Family SUVs",
               "Full DVSA-standard inspection",
